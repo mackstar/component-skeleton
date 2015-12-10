@@ -1,0 +1,15 @@
+{
+  "name": "masthead",
+  "version": "0.0.2",
+  "templates": {
+    "base": {
+      "data": "data/default.json",
+      "script": "scripts/default.js",
+      "scripts": [
+      	"scripts/src/hello.js"
+      ],
+      "style": "styles/index.scss",
+      "template": "templates/index.hbs"
+    }
+  }
+}
